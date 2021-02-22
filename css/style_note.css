@@ -1,0 +1,26 @@
+/* Nav */
+#navtable{margin: 0 auto;}
+nav{margin: 0 auto; margin-bottom: 10px; background: #274c5e;}
+.navcon{width: 150px; height: 70px; text-align: center;}
+.navanchor{text-decoration: none; font-size: 20px; color: #fff }
+
+/* Header */
+header{margin: 0 auto; height: 500px; text-align: center; font-size: 35px; color: #fff; background: #7f9eb2;}
+h1{margin: 0; padding-top: 200px;}
+#myname{font-size: 20px;}
+
+/* Section */
+.contentsbox{height: 600px; margin: 0 auto; padding-top: 50px; font-size: 20px; text-align: center; border: 1px soild black;}
+.contentsbox a{text-decoration: none; color: #274c5e;}
+.contentsbox a:hover{color: #d4c35f;}
+.contentsbox ul{list-style: none;}
+/* Each contents box's colors */
+#github, #css, #design{background: #dae9f4; color: #77919d;}
+#html, #js, #shortcuts{background: #77919d; color: #dae9f4;}
+/* Articles in each contents box */
+.contentsbox article{width: 49.9%; height: 70%; margin: 0 auto; padding-left: 8%; box-sizing: border-box; text-align: left; font-size: 15px; line-height: 150%;}
+.left{float: left; border-right: 1px solid #fff; }
+.right{float: right;}
+
+/* Footer */
+footer{height: 70px; margin-top: 20px; padding-top: 25px; text-align: center; font-size: 13px; color: #fff; background: #274c5e;}
